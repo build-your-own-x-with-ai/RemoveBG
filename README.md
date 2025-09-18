@@ -1,18 +1,18 @@
 # 背景去除应用
 
-[![GitHub](https://img.shields.io/badge/GitHub-buld--your--own--x--with--ai%2FRemoveBG-blue?logo=github)](https://github.com/buld-your-own-x-with-ai/RemoveBG)
+[![GitHub](https://img.shields.io/badge/GitHub-build--your--own--x--with--ai%2FRemoveBG-blue?logo=github)](https://github.com/build-your-own-x-with-ai/RemoveBG)
 [![iOS](https://img.shields.io/badge/iOS-18.5%2B-blue?logo=apple)](https://developer.apple.com/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0%2B-orange?logo=swift)](https://swift.org/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-Latest-green?logo=swift)](https://developer.apple.com/xcode/swiftui/)
 [![Vision](https://img.shields.io/badge/Vision-Framework-purple?logo=apple)](https://developer.apple.com/documentation/vision)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/buld-your-own-x-with-ai/RemoveBG/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/build-your-own-x-with-ai/RemoveBG/pulls)
 
 这是一个使用SwiftUI开发的iOS应用，可以智能去除图片背景并提供多种功能。
 
 ## 🔗 项目地址
 
-**GitHub仓库**: [https://github.com/buld-your-own-x-with-ai/RemoveBG](https://github.com/buld-your-own-x-with-ai/RemoveBG)
+**GitHub仓库**: [https://github.com/build-your-own-x-with-ai/RemoveBG](https://github.com/build-your-own-x-with-ai/RemoveBG)
 
 
 
@@ -191,7 +191,7 @@ private static func normalizeImageOrientation(_ image: UIImage) -> UIImage {
 5. 打开一个Pull Request
 
 ### 报告问题
-如果你发现了bug或有功能建议，请在[GitHub Issues](https://github.com/buld-your-own-x-with-ai/RemoveBG/issues)中提交。
+如果你发现了bug或有功能建议，请在[GitHub Issues](https://github.com/build-your-own-x-with-ai/RemoveBG/issues)中提交。
 
 ### 开发指南
 - 遵循Swift编码规范
