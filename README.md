@@ -53,7 +53,7 @@
 
 ### 克隆项目
 ```bash
-git clone https://github.com/buld-your-own-x-with-ai/RemoveBG.git
+git clone https://github.com/build-your-own-x-with-ai/RemoveBG.git
 cd RemoveBG
 ```
 
